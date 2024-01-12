@@ -16,6 +16,8 @@
     
     <properties>
         <myproject.version>1.0-SNAPSHOT</myproject.version>
+        <version.server.bom>7.4.0.GA</version.server.bom>
+
     </properties>
     
     <dependencyManagement>
